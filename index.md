@@ -57,7 +57,7 @@ Python package for matrix storage and operations on hetnets.
     - designing your graphQL schema. [here.](https://grandstack.io/docs/guide-graphql-schema-design/)
     - Thinking in Graph. [here.](https://graphql.org/learn/thinking-in-graphs/#it-s-graphs-all-the-way-down-https-en-wikipedia-org-wiki-turtles-all-the-way-down)
     - Graph technology landscape 2020. [here.](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)
-    - .[here.]()
+    -MArtin Preusse's blog .[here.](https://graphdb-bio.com/)
     - .[here.]()
     - .[here.]() 
   
@@ -73,3 +73,5 @@ API Java pour neo4J :
 https://stph.scenari-community.org/contribs/nos/Neo4j2/co/API.html
 
 Visualising data using [keylines](https://cambridge-intelligence.com/keylines/neo4j/)
+
+[bioKEEN](https://github.com/SmartDataAnalytics/BioKEEN) & [pyKEEN](https://github.com/SmartDataAnalytics/PyKEEN) packages & associated [publication](https://academic.oup.com/bioinformatics/article-abstract/35/18/3538/5320556?redirectedFrom=fulltext)
