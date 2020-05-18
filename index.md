@@ -19,7 +19,7 @@ Of course : [Neo4J](https://www.neo4J.com) and associated tutorials & webinars.
     - [ D. himmelstein](https://github.com/search?q=topic%3Arephetio+user%3Adhimmel&type=Repositories)
 
 
-API listing: 
+# API listing: 
 
 - hetnets in python : 
 
@@ -52,6 +52,7 @@ Python library with C++ backend for degree-eserving network randomisation.
 Python package for matrix storage and operations on hetnets. 
 
 # other useful resources :
+
 - tutos & blogs 
     - designing your graphQL schema. [here.](https://grandstack.io/docs/guide-graphql-schema-design/)
     - Thinking in Graph. [here.](https://graphql.org/learn/thinking-in-graphs/#it-s-graphs-all-the-way-down-https-en-wikipedia-org-wiki-turtles-all-the-way-down)
