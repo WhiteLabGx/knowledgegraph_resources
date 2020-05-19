@@ -1,4 +1,5 @@
 ![](/home/Logo_horizontal.png)
+---
 
 # Neo4J API resources : 
 
