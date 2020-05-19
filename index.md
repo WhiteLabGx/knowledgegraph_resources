@@ -1,3 +1,5 @@
+![](/home/Logo_horizontal.png)
+
 # Neo4J API resources : 
 
 this is a non exhaustive, evolving list of useful resources concerning hetionet and neo4J knowledge graph APIs :
@@ -75,3 +77,6 @@ https://stph.scenari-community.org/contribs/nos/Neo4j2/co/API.html
 Visualising data using [keylines](https://cambridge-intelligence.com/keylines/neo4j/)
 
 [bioKEEN](https://github.com/SmartDataAnalytics/BioKEEN) & [pyKEEN](https://github.com/SmartDataAnalytics/PyKEEN) packages & associated [publication](https://academic.oup.com/bioinformatics/article-abstract/35/18/3538/5320556?redirectedFrom=fulltext)
+
+
+||[home](https://whitelabgx.github.io/home/)||
