@@ -63,10 +63,9 @@ Python package for matrix storage and operations on hetnets.
     - Graph technology landscape 2020. [here.](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)
     
     -Martin Preusse's blog .[here.](https://graphdb-bio.com/)
-    - .[here.]()
-    - .[here.]() 
+    - Tomaz bratanic's blog on neo4J & graphs. [here.](https://tbgraph.wordpress.com/)
+    - and his github. [here.](https://github.com/tomasonjo) 
   
-  tbd.
 
 ## API for neo4J : 
 
