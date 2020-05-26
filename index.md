@@ -83,4 +83,3 @@ Visualising data using  [regraph](https://cambridge-intelligence.com/regraph/)
 
 ****
 ||[home](https://whitelabgx.github.io/home/)||
-https://cambridge-intelligence.com/regraph/
