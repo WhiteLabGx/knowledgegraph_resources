@@ -81,5 +81,7 @@ Visualising data using  [regraph](https://cambridge-intelligence.com/regraph/)
 
 [bioKEEN](https://github.com/SmartDataAnalytics/BioKEEN) & [pyKEEN](https://github.com/SmartDataAnalytics/PyKEEN) packages & associated [publication](https://academic.oup.com/bioinformatics/article-abstract/35/18/3538/5320556?redirectedFrom=fulltext)
 
+Integration with [Tableau](https://www.tableau.com/) software. [Here](https://github.com/neo4j-contrib/neo4j-tableau) & [there](https://neo4j.com/blog/neo4j-tableau-integration/)
+
 ****
 ||[home](https://whitelabgx.github.io/home/)||
